@@ -7,7 +7,7 @@ This project analyzes opioid overdose trends across U.S. states by integrating m
 Using machine learning models and clustering techniques, this project highlights high-risk states and gaps in intervention coverage.
 
 📄 **Full report included:**
-`FINAL Opioid OD Deaths - Indicators & Actions.pdf`
+[Opioid Analysis Report](reports/opioid_analysis_report.pdf)
 
 ---
 
